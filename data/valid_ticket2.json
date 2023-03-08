@@ -1,0 +1,100 @@
+{
+    "date": "04/11/2021",
+    "storeAddress": "CARRERA 98 No 16-50",
+    "invoiceNumber": "J212 341304",
+    "subtotal": 207350,
+    "total": 174196,
+    "lineItems": [
+      {
+        "sku": 7702406000150,
+        "description": "Azucar refinado",
+        "total": 8590,
+        "taxCode": "A"
+      },
+      {
+        "sku": 7702406000150,
+        "description": "Azucar refinado",
+        "total": 8590,
+        "taxCode": "A"
+      },
+      {
+        "sku": 7702406000150,
+        "description": "Azucar refinado",
+        "total": 8590,
+        "taxCode": "A"
+      },
+      {
+        "sku": 7702406000150,
+        "description": "Azucar refinado",
+        "total": 8590,
+        "taxCode": "A"
+      },
+      {
+        "sku": 7702020212052,
+        "description": "DONAREPA PERLAD",
+        "total": 3690,
+        "taxCode": "A"
+      },
+      {
+        "sku": 7702020212052,
+        "description": "DONAREPA PERLAD",
+        "total": 3690,
+        "taxCode": "A"
+      },
+      {
+        "sku": 7705491102020,
+        "description": "PANELA EXTRA RE",
+        "total": 4390,
+        "taxCode": ""
+      },
+      {
+        "sku": 7705491102020,
+        "description": "PANELA EXTRA RE",
+        "total": 4390,
+        "taxCode": ""
+      },
+      {
+        "sku": 7702026020507,
+        "description": "Servilleta FAMI",
+        "total": 6590,
+        "taxCode": "N"
+      },
+      {
+        "sku": 7702010225123,
+        "description": "FABULOSO LAVAND",
+        "total": 6590,
+        "taxCode": "F"
+      },
+      {
+        "sku": 7701018005089,
+        "description": "ACEITE OLEOCALI",
+        "total": 48790,
+        "taxCode": "N"
+      },
+      {
+        "sku": 7500435126823,
+        "description": "Shampoo H&S lim",
+        "total": 27990,
+        "taxCode": "N"
+      },
+      {
+        "sku": 7622201772840,
+        "description": "Gelatina ROYAL",
+        "total": 3890,
+        "taxCode": "N"
+      },
+      {
+        "sku": 7509546672557,
+        "description": "Desodorante SPE",
+        "total": 33990,
+        "taxCode": "N"
+      },
+      {
+        "sku": 7702026193003,
+        "description": "Papel hig. FAMIL",
+        "total": 28990,
+        "taxCode": "N"
+      }
+    ]
+  }
+  

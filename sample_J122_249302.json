@@ -1,0 +1,69 @@
+{
+    "date": "10/12/2021",
+    "storeAddress": "AVENIDA CALLE 80 No 69Q- 50",
+    "invoiceNumber": "J122 249302",
+    "subtotal": 86160,
+    "total": 86160,
+    "lineItems": [
+        {
+            "sku": 8410270241140,
+            "description": "Aceite oliva SU",
+            "total": 27990,
+            "taxCode": "N"
+        },
+        {
+            "sku": 7707322030489,
+            "description": "Quinua QUINOACL",
+            "total": 7990,
+            "taxCode": "A"
+        },
+        {
+            "sku": 7707322030489,
+            "description": "Quinua QUINOACL",
+            "total": 7990,
+            "taxCode": "A"
+        },
+        {
+            "sku": 8004690751060,
+            "description": "Cous cous LA MO",
+            "total": 8990,
+            "taxCode": ""
+        },
+        {
+            "sku": 7702247011056,
+            "description": "YOGURT LIQUIDO",
+            "total": 2650,
+            "taxCode": "N"
+        },
+        {
+            "sku": 8410971033785,
+            "description": "Aceitunas EXCEL",
+            "total": 3490,
+            "taxCode": ""
+        },
+        {
+            "sku": 7707298470074,
+            "description": "Tallarines BEST",
+            "total": 8790,
+            "taxCode": "A"
+        },
+        {
+            "sku": 7702085003497,
+            "description": "Quinua molida D",
+            "total": 8690,
+            "taxCode": "A"
+        },
+        {
+            "sku": 7705326077837,
+            "description": "Tortillinas BIM",
+            "total": 5990,
+            "taxCode": "N"
+        },
+        {
+            "sku": 7702253800002,
+            "description": "Maiz pira TOT-R",
+            "total": 3590,
+            "taxCode": ""
+        }
+    ]
+}
